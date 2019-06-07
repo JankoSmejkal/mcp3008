@@ -1,0 +1,4 @@
+Connect to a terminal on your Raspberry Pi and execute following commands:
+
+sudo apt-get install build-essential python3-dev python3-smbus python3-pip
+sudo pip3 install adafruit-mcp3008
