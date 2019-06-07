@@ -1,5 +1,5 @@
 # mcp3008
-Basic RaspberryPi &amp; Python project with mcp3008 ADC, potentiometer and 6 LEDs
+Basic Raspberry Pi &amp; Python project with mcp3008 ADC, potentiometer and 6 LEDs
 
 # Goal
 To control 6 LEDs with Raspberry Pi using potentiometer and mcp3008 ADC (Analog-to-Digital Converter)
