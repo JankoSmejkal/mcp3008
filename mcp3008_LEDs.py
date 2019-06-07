@@ -1,7 +1,6 @@
 # Import libraries
 import Adafruit_MCP3008
 import RPi.GPIO as GPIO
-import time
 
 #Led pins (BCM)
 led_1 = 26
